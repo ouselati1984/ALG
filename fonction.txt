@@ -12,7 +12,7 @@ function traitement(str) {
  
   }
   totalwords += 1; 
- nombrecaractere=(str.length)-1;
+ nombrecaractere=(str.length);
  
  return ('le nombre de carectere est :' +nombrecaractere + 'le nombre de vowels est :' +vowelsCount + 'le nombre de mot : ' + totalwords );
  
